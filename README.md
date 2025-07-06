@@ -32,7 +32,6 @@ A simple web application that checks if a given word, phrase, or sentence is a *
 - ✅ Real-time palindrome checking
 - ✅ Ignores punctuation, spaces, and case
 - ✅ User-friendly and responsive layout
-- ✅ Dark mode toggle with theme persistence
 - ✅ Accessibility features (ARIA roles, keyboard focus, labels)
 - ✅ SEO-friendly HTML (meta tags, proper structure)
 
